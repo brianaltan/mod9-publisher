@@ -14,3 +14,7 @@
     This URL is the connection string used to access the RabbitMQ message broker. By using the same URL in both the publisher and subscriber:
 
     Using the same connection string ensures that both programs communicate through the same message broker and can exchange messages successfully.
+
+## Running RabbitMQ as message broker.
+![image1](mod9-1.png)
+
