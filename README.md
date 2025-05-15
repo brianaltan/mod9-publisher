@@ -26,5 +26,8 @@ When I run the publisher using ``cargo run``, the application sends 5 events to 
 # Monitoring chart based on publisher.
 ![image3](mod9-3.png)
 
+# Simulation slow subscriber
+![image4](mod9-4.png)
+
 
 
