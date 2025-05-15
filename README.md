@@ -18,3 +18,10 @@
 ## Running RabbitMQ as message broker.
 ![image1](mod9-1.png)
 
+## Sending and processing event.
+![image2](mod9-2.png)
+
+When I run the publisher using ``cargo run``, the application sends 5 events to the RabbitMQ message broker. These events can then be consumed and processed by the subscriber.
+
+
+
