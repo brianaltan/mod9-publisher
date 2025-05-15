@@ -23,5 +23,8 @@
 
 When I run the publisher using ``cargo run``, the application sends 5 events to the RabbitMQ message broker. These events can then be consumed and processed by the subscriber.
 
+# Monitoring chart based on publisher.
+![image3](mod9-3.png)
+
 
 
