@@ -29,5 +29,10 @@ When I run the publisher using ``cargo run``, the application sends 5 events to 
 # Simulation slow subscriber
 ![image4](mod9-4.png)
 
+# Reflection and Running at least three subscribers
+![image5](mod9-5.png)
+
+When running only one subscriber, the queue fills up quickly as it can't keep up with incoming messages, leading to delays. By adding three subscribers, RabbitMQ distributes the workload and allows the messages to be processed in parallel, causing the queue to clear much faster.
+
 
 
